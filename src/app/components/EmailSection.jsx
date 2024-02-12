@@ -99,7 +99,7 @@ const EmailSection = () => {
 				) : (
 					<form
 						className="flex flex-col"
-						onSubmit={handleSubmit}
+						// onSubmit={handleSubmit}
 					>
 						<div className="mb-6">
 							<label

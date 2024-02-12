@@ -23,7 +23,7 @@ const TAB_DATA = [
 		id: "education",
 		content: (
 			<ul className="list-disc pl-2">
-				<li>BSC In Computer Science</li>
+				<li>Bsc In Computer Science</li>
 				<li>Karnataka University Dharwad</li>
 			</ul>
 		),
@@ -62,11 +62,12 @@ const AboutSection = () => {
 					src="/images/dsd4.png"
 					width={500}
 					height={500}
+					alt="hi"
 				/>
 				<div className="mt-4 md:mt-0 text-left flex flex-col h-full">
 					<h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
 					<p className="text-base lg:text-lg">
-						Hello, I'm a professional designer and video editor with a passion
+						Hello, Im a professional designer and video editor with a passion
 						for creating interactive and unique designs. I have extensive
 						experience specializing in video editing tools such as Premiere Pro,
 						Photoshop, and DaVinci Resolve. Additionally, I excel in graphic
