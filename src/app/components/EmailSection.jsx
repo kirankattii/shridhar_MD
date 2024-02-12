@@ -1,9 +1,8 @@
 "use client"
 import React, { useState } from "react"
-import GithubIcon from "../../../public/github-icon.svg"
+
 import LinkedinIcon from "../../../public/linkedin-icon.svg"
-import instaIcon from "../../../public/instaa.png"
-import phoneIcon from "../../../public/p15.jpg"
+
 import Link from "next/link"
 import Image from "next/image"
 
