@@ -81,11 +81,11 @@ const EmailSection = () => {
 					</Link>{" "} */}
 					<div className=" flex gap-3 items-center">
 						<Link href="linkedin.com">
-							<Image
+							{/* <Image
 								className="w-10 -mt-2"
 								src={phoneIcon}
 								alt="Linkedin Icon"
-							/>
+							/> */}
 						</Link>
 						<h3 className="mb-3">+91 76764 29036</h3>
 					</div>
